@@ -1,2 +1,2 @@
 # Final-CS-Apartment-management
-For Final project of PROGRAMING FOR TEACHER EDCOM 
+For Final project of COMPUTER PROGRAMMING FOR TEACHERS COMED
